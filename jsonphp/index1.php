@@ -1,5 +1,4 @@
 <?php
-
     $phpArrray = array("hà nội","nam định","biên hòa","thái bình");
 
     class Student {
