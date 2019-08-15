@@ -201,7 +201,7 @@
                 </div>
             </div>
         </div>
-        <div class="button">
+        <div style="margin: 10px; text-align: center;">
             <button id="load-more" type="button" class="btn btn-sm btn-success">Load more</button>
         </div>
     </main>
