@@ -44,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/ajax_sql/assets/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -186,6 +186,7 @@
       <workItem from="1565861548812" duration="7489000" />
       <workItem from="1566000799057" duration="26000" />
       <workItem from="1566220027110" duration="331000" />
+      <workItem from="1566226045043" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1">
       <created>1564219598531</created>
@@ -229,16 +230,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565882856474</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ver 1">
+      <created>1566226055609</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566226055609</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22937000" />
+    <option name="totallyTimeSpent" value="22958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -382,7 +391,7 @@
     <entry file="file://$PROJECT_DIR$/ajax_sql/assets/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
